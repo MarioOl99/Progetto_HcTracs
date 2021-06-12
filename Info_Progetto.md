@@ -7,3 +7,6 @@
 **Tecnologie usate** : HTML5, java script e css (lato client);<br>
 
 **Per provare il progetto bisogna avviarlo in locale sulla propria macchina, è consigliato usare come web browser Google Chrome o Microsoft Edge**;<br>
+
+**Le slide di presentazione del progetto si possono scaricare dal seguente link** : <br>
+https://www.mediafire.com/file/h2t5w3i9b1m5749/HcTracs.rar/file
